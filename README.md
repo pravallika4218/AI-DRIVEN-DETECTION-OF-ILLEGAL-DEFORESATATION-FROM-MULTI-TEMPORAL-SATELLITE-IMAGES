@@ -27,3 +27,14 @@ The dataset includes multispectral satellite images labeled as forested or defor
 2. Create virtual environment:
 ```bash
 pip install -r requirements.txt
+## How to Run the Project
+
+```bash
+git clone https://github.com/pravallika4218/ai-illegal-deforestation-detection.git
+cd ai-illegal-deforestation-detection
+
+python -m venv venv
+venv\Scripts\activate
+
+pip install -r requirements.txt
+python app.py
