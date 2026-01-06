@@ -1,0 +1,2 @@
+# AI-DRIVEN-DETECTION-OF-ILLEGAL-DEFORESATATION-FROM-MULTI-TEMPORAL-SATELLITE-IMAGES
+ This project presents an AI-driven system for detecting illegal deforestation using multi-temporal satellite images. By comparing past and present imagery, the system automatically highlights regions showing unusual or unauthorized forest loss. The AI-based approach improves the accuracy, speed, and automation of forest monitoring 
